@@ -1,0 +1,6 @@
+.redes{
+    background-color: aqua;
+    text-align:center;
+    display: flex;
+    justify-content: end;
+}
